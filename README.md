@@ -1,4 +1,3 @@
-// 📁 README.md
 # Eotel - Observability Toolkit for Go
 
 `eotel` เป็น logging, tracing และ metrics toolkit สำหรับ Go ที่รวม Zap, OpenTelemetry, Loki และ Sentry ในแพ็กเกจเดียว พร้อม middleware สำหรับ Gin
@@ -209,7 +208,7 @@ func ProcessJob(ctx context.Context, jobID string) {
 
 ---
 
-## 🙏 ขอขอบคุณ
+## ขอขอบคุณ
 - [ChatGPT](https://openai.com/)
 - [Uber Zap](https://github.com/uber-go/zap)
 - [OpenTelemetry](https://opentelemetry.io/)
